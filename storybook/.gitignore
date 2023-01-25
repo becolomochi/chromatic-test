@@ -18,6 +18,8 @@
 # misc
 .DS_Store
 *.pem
+/.cache
+/.storybook
 
 # debug
 npm-debug.log*
